@@ -18,3 +18,7 @@ media
 /node_modules
 /package-lock.json
 /dynamicforms/static/ckeditor5/
+/dist/
+/build/
+/DynamicForms.egg-info/
+/.tox/
